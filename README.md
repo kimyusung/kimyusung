@@ -29,7 +29,7 @@ Welcome to My GitHub!
 
 - Aug 2024 ~ ing : SIEM, NTAS Administrator
 
-🏆 Achievements & Awards
+🏆 Awards
 ---
 - Sep 2023 : 3rd Place in Cyber Security Competition
 
